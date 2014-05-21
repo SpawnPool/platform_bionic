@@ -1,7 +1,4 @@
-/*	$OpenBSD: strlen.c,v 1.7 2005/08/08 08:05:37 espie Exp $	*/
-
-/*
- * Copyright (c) 2005-2014 Rich Felker, et al. (http://www.musl-libc.org)
+/* Copyright (c) 2005-2014 Rich Felker, et al. (http://www.musl-libc.org)
  * Copyright (c) 2014 Alireza Forouzandeh Nezhad (http://www.alirezafn.net)
  *
  * Redistribution and use in source and binary forms, with or without
